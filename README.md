@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我叫凌龙，是广东工业大学的一名学生，来自广东梅州。爱好是跑步，篮球，羽毛球，听歌。
 
 <!--
 **Freeloop55/Freeloop55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
